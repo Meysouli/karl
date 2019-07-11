@@ -1,0 +1,22 @@
+
+html {
+    background-color : blue ;
+}
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: green;
+    border: 5px solid black;
+}
+img {
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    border: 10px ridge gold;
+}
+ #primary {
+     color: deepskyblue;
+ }
+ #secodnary{
+     color: blueviolet;
+ }

@@ -1,0 +1,28 @@
+#one {
+    color: red;
+}
+.two {
+    color: blue;
+}
+[target] {
+    border: 1px  solid gold;
+}
+
+a :link{
+ color: red;
+}
+a:visited {
+    color: yellow;
+}
+a:hover{
+    color: deeppink;
+}
+a:active{
+    color: green;
+}
+p:first-letter{
+    font-size: 32px;
+}
+p:first-line{
+    color: brown;
+}
