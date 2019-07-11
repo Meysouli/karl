@@ -1,0 +1,12 @@
+/*immeddiate children*/
+div > p {
+    color: red;
+}
+/*sibling following div*/
+div ~ p {
+    color: deeppink;
+}
+/*direct sibling */
+div + p {
+    color: blue;
+}
