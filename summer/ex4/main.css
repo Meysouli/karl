@@ -1,0 +1,19 @@
+html {
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+h1 {
+    text-shadow: 2px 5px 10px red;
+}
+p {
+   text-decoration: line-through;
+    text-indent: 5px ;
+}
+a{
+   text-decoration: none;
+}
+a:hover
+{
+    
+}
